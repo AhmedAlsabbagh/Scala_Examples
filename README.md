@@ -1,1 +1,1 @@
-# there are many problem solving in scala
+# there are some problem solving in functions,classes and objects
